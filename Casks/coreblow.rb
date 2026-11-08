@@ -1,6 +1,6 @@
 cask "coreblow" do
   version "2.0.0"
-  sha256 "0d950d270b34e01aff13a5007ba52241e86727dff0f536ea2450cfa55a6e90e4"
+  sha256 "e815a9fd9c789cabc57a2af9577b47bc5371478e44969de35ec3c665ef156482"
 
   url "https://github.com/coreblow/coreblow/releases/download/v#{version}/CoreBlow-#{version}-arm64.dmg"
   name "CoreBlow Studio"
