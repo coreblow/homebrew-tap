@@ -1,8 +1,8 @@
 class Coreblow < Formula
   desc "Sovereign Autonomous Agent-OS & Enterprise AI Gateway CLI"
   homepage "https://coreblow.com"
-  url "https://registry.npmjs.org/coreblow/-/coreblow-2.3.0.tgz"
-  sha256 "d84fd96c60be97f0c865987f214bdfc27f46f1ef68193fe8904d7f5711bb56d7"
+  url "https://registry.npmjs.org/coreblow/-/coreblow-2.3.1.tgz"
+  sha256 "500367ebc292097867bcba794edc6f6e8d3fa2b0605103c9476f76f0b7a78017"
   license "MIT"
 
   depends_on "node@22"
